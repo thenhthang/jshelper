@@ -1,7 +1,7 @@
 {
-  "name": "js-utility-functions",
-  "version": "2.1.4",
-  "description": "Javascript Utility Functions",
+  "name": "@thenhthang/jshelper",
+  "version": "0.0.1",
+  "description": "Javascript utility functions",
   "main": "lib/index.js",
   "scripts": {
     "dev": "webpack --mode=development --progress --colors --watch",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/p-rk/js-utility-functions.git"
+    "url": "https://github.com/thenhthang/jshelper.git"
   },
   "keywords": [
     "JS",
@@ -27,12 +27,15 @@
     "utility",
     "functions"
   ],
-  "author": "Rama krishna (https://github.com/p-rk/)",
+  "author": "Thenh Thang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/p-rk/js-utility-functions/issues"
+    "url": "https://github.com/thenhthang/jshelper.git/issues"
   },
-  "homepage": "https://github.com/p-rk/js-utility-functions#readme",
+  "homepage": "https://github.com/thenhthang/jshelper.git#readme",
+  "dependencies": {
+    "tinycolor2": "^1.4.1"
+  },
   "devDependencies": {
     "babel-eslint": "^8.2.2",
     "babel-loader": "^7.1.4",
