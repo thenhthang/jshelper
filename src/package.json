@@ -1,6 +1,6 @@
 {
   "name": "@thenhthang/jshelper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Javascript utility functions",
   "main": "src/index.js",
   "files": [
